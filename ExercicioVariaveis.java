@@ -1,5 +1,5 @@
-public class ExercicioVariaveis {
-    public static void main(String[] args) {
+//public class ExercicioVariaveis {
+    //public static void main(String[] args) {
         
         //Cria as variaveis com seus respectivos tipos
         int inteiro = 10;
@@ -27,6 +27,5 @@ public class ExercicioVariaveis {
         System.out.println("coloca aspas duplas : \"Texto entre aspas\"");
         System.out.println("Cria a barra invertida: C:\\diretorio\\arquivo");
 
-    }
-}
-
+    //}
+//}
