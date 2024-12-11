@@ -65,3 +65,5 @@ CREATE TABLE ListaDeEspera (
     FOREIGN KEY (paciente_id) REFERENCES Paciente(id),
     FOREIGN KEY (profissional_id) REFERENCES Profissional(id)
 );
+
+ALTER TABLE Paciente MODIFY COLUMN sexo CHAR(1);
